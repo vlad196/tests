@@ -1,2 +1,2 @@
-# tests
-Here i will learn Tkinter and classes (and PEP8)
+Здесь я буду изучать прицип ООП, классы, а также работу Tkinter и правила PEP8
+
