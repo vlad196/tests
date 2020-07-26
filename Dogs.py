@@ -17,7 +17,7 @@ class Dog():
         print(self.name.title() + " прыгнула")
 
 my_dog = Dog("Topik", 4)
-my_dog_2 = Dog("nick", 7)
+my_dog_2 = Dog("Nick", 7)
 
 print(my_dog.age)
 print(my_dog.name)
